@@ -11,14 +11,14 @@
     "test": "scripts/test.js"
   },
   "dependencies": {
-    "classnames": "2.2.5",
-    "log4js": "1.1.1",
+    "classnames": "2.3.1",
+    "log4js": "6.3.0",
     "@atom-ide-community/nuclide-commons": "latest",
     "@atom-ide-community/nuclide-commons-atom": "latest",
     "@atom-ide-community/nuclide-commons-ui": "latest",
-    "react": "15.3.1",
-    "react-dom": "15.3.1",
-    "rxjs": "5.3.1"
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "rxjs": "7.3.0"
   },
   "devDependencies": {}
 }
