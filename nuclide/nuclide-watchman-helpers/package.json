@@ -15,9 +15,9 @@
     "test": "node ../nuclide-jasmine/bin/jasmine-node-transpiled spec"
   },
   "dependencies": {
-    "event-kit": "2.2.0",
+    "event-kit": "2.5.3",
     "fb-watchman": "2.0.1",
-    "log4js": "1.1.1",
+    "log4js": "6.3.0",
     "rxjs-compat": "^6.3.3",
     "@atom-ide-community/nuclide-commons": "workspace:../nuclide-commons"
   }
